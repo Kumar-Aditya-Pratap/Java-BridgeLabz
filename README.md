@@ -1,6 +1,8 @@
 BridgeLabz_Training 
 # daily progress logs Bridgelabz Training
 
+14th Dec - Initialised Git repository and performed github tasks
+
 16th Dec – Started .NET training and completed Programming Elements using C#, focusing on basic syntax, variables, and operators.
 
 17th Dec – Completed Control Flow concepts in .NET including conditional statements and looping constructs with hands-on practice.
