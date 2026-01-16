@@ -1,26 +1,45 @@
-Daily Progress Logs BridgeLabz-Training
+Daily Progress Log – BridgeLabz Training
 
+• 08-Dec-2025 (Monday): Installed development tools including IntelliJ IDEA and Eclipse IDE.
 
-• 14-Dec-2024 (Saturday): Initialized Git repository and performed GitHub-related tasks.
+• 09-Dec-2025 (Tuesday): Began learning Java fundamentals and core concepts.
 
-• 16-Dec-2024 (Monday): Started .NET training and completed Programming Elements using C#, focusing on basic syntax, variables, and operators.
+• 10-Dec-2025 (Wednesday): Practiced and solved introductory Java programming problems.
 
-• 17-Dec-2024 (Tuesday): Completed Control Flow concepts in .NET including conditional statements and looping constructs with hands-on practice.
+• 11-Dec-2025 (Thursday): Introduced to Git and learned basic Git commands.
 
-• 18-Dec-2024 (Wednesday): Worked on Arrays in .NET, covering single-dimensional and multi-dimensional arrays with problem-solving exercises.
+• 12-Dec-2025 (Friday): Installed Git Bash and .NET SDK, and completed initial GitHub configuration.
 
-• 19-Dec-2024 (Thursday): Practiced Methods in .NET, implementing reusable functions, parameter passing, and return types.
+• 13-Dec-2025 (Saturday): Started working with C# basics and syntax.
 
-• 20-Dec-2024 (Friday): Continued Methods and applied problem-solving using method-based design and clean coding practices in C#.
+• 15-Dec-2025 (Monday): Completed Programming Elements – Level 1 exercises.
 
-• 21-Dec-2024 (Saturday): Revised all completed .NET topics and practiced additional problems to strengthen core programming concepts.
+• 16-Dec-2025 (Tuesday): Worked on Programming Elements – Level 2 along with Control Flow concepts.
 
-• 23-Dec-2024 (Monday): Consolidated learning by reviewing Programming Elements, Control Flow, Arrays, and Methods in .NET with end-to-end practice.
+• 17-Dec-2025 (Wednesday): Performed Git-related tasks and completed Control Flow – Level 3 programs.
 
-• 09-Jan-2025 (Thursday): Completed all levels of Programming Elements including Level 1 and Level 2 Java problems.
+• 18-Dec-2025 (Thursday): Practiced Git operations and solved Array problems – Level 1.
 
-• 10-Jan-2025 (Friday): Completed all levels of Control Flow problems with proper validations and logic implementation.
+• 19-Dec-2025 (Friday): Reviewed important C# and .NET core concepts.
 
-• 11-Jan-2025 (Saturday): Completed all levels of Arrays problems including Level 1 and Level 2 using one-dimensional and two-dimensional arrays.
+• 20-Dec-2025 (Saturday): Continued practicing Git commands and completed Arrays – Level 2 problems.
 
-• 13-Jan-2025 (Monday): Completed all levels of Methods including Level 1, Level 2, and Level 3 with proper method-based design.
+• 22-Dec-2025 (Monday): Solved Methods – Level 1 and Level 2 programs.
+
+• 23-Dec-2025 (Tuesday): Completed Methods – Level 3 and started working on String-based problems.
+
+• 09-Jan-2026 (Friday): Rejoined BridgeLabz Java training. Attended environment setup walkthrough and overview of Java backend learning path.
+
+• 10-Jan-2026 (Saturday): Revised Java fundamentals including variables, data types, operators, and basic input/output.
+
+• 11-Jan-2026 (Sunday): Practiced Programming Elements and solved multiple Java-based exercises.
+
+• 12-Jan-2026 (Monday): Continued Programming Elements practice and improved logical problem-solving skills.
+
+• 13-Jan-2026 (Tuesday): Studied Control Flow concepts such as conditional statements and looping structures.
+
+• 14-Jan-2026 (Wednesday): Completed Control Flow Level 1 and Level 2 programs and pushed changes to the feature/CoreProgramming branch.
+
+• 15-Jan-2026 (Thursday): Finished Control Flow Level 3 programs and practiced array-based problem solving.
+
+• 16-Jan-2026 (Friday): Completed Methods and String programs. Learned Git workflow including branch creation, publishing, Git Flow concepts, and daily development practices.
