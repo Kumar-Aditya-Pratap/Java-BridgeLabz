@@ -19,5 +19,6 @@ class OTPGenerator {
         for (int i = 0; i < 10; i++)
             otps[i] = generateOTP();
         System.out.println(unique(otps));
+        
     }
 }
