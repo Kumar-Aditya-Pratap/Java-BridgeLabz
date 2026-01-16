@@ -4,10 +4,11 @@ import java.util.Scanner;
 
 class VotingEligibility {
     public static void main(String[] args) {
+        // Initialised Scanner object
         Scanner input = new Scanner(System.in);
-
+        // Created an array of type int and of size 10
         int[] ages = new int[10];
-
+        // running the loop from 0 to arry size and taking input one by one
         for (int i = 0; i < ages.length; i++) {
             ages[i] = input.nextInt();
 

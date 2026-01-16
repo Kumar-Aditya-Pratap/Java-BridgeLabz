@@ -4,10 +4,11 @@ import java.util.Scanner;
 
 class NumberAnalysis {
     public static void main(String[] args) {
+        // initialising scanner object
         Scanner input = new Scanner(System.in);
-
+        // Initialised array of size 5
         int[] numbers = new int[5];
-
+        // Iterating through the for loop inorder to get the input
         for (int i = 0; i < numbers.length; i++) {
             numbers[i] = input.nextInt();
 

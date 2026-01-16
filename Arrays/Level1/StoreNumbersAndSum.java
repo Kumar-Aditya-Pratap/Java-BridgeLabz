@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 class StoreNumbersAndSum {
     public static void main(String[] args) {
+        // Initialising the Scanner Object
         Scanner input = new Scanner(System.in);
-
+        // Initialising an array of type double and size 10
         double[] numbers = new double[10];
         int index = 0;
         double sum = 0.0;
@@ -19,7 +20,7 @@ class StoreNumbersAndSum {
             numbers[index] = value;
             index++;
         }
-
+        // updating the Array through a for loop
         for (int i = 0; i < index; i++) {
             sum += numbers[i];
             System.out.println(numbers[i]);
