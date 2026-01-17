@@ -16,6 +16,8 @@ Daily Progress Log – BridgeLabz Training
 
 • 16-Dec-2025 (Tuesday): Worked on Programming Elements – Level 2 along with Control Flow concepts.
 
+
+
 • 17-Dec-2025 (Wednesday): Performed Git-related tasks and completed Control Flow – Level 3 programs.
 
 • 18-Dec-2025 (Thursday): Practiced Git operations and solved Array problems – Level 1.
@@ -43,3 +45,5 @@ Daily Progress Log – BridgeLabz Training
 • 15-Jan-2026 (Thursday): Finished Control Flow Level 3 programs and practiced array-based problem solving.
 
 • 16-Jan-2026 (Friday): Completed Methods and String programs. Learned Git workflow including branch creation, publishing, Git Flow concepts, and daily development practices.
+• 17-Jan-2026 (Saturday): Completed OOPs Classes and Objects,Inheritance,Object Modelling and Constructors.
+
