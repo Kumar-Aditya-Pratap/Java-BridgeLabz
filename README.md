@@ -45,5 +45,6 @@ Daily Progress Log – BridgeLabz Training
 • 15-Jan-2026 (Thursday): Finished Control Flow Level 3 programs and practiced array-based problem solving.
 
 • 16-Jan-2026 (Friday): Completed Methods and String programs. Learned Git workflow including branch creation, publishing, Git Flow concepts, and daily development practices.
+
 • 17-Jan-2026 (Saturday): Completed OOPs Classes and Objects,Inheritance,Object Modelling and Constructors.
 
